@@ -1,0 +1,105 @@
+﻿Course Name,Link,Duration(Hr),Link_1
+Data Engineering- Cloud Platform,https://hclcontent.percipio.com/track/ba1a6715-51e8-4001-ad4c-3be4330a19af,33,Percipio Track Data Engineering-Basic-Track
+Data Engineering- Cloud Platform,https://hclcontent.percipio.com/track/9c0a21ed-30dd-4dce-8703-6cad184d0704,36,Percipio Track Data Engineering-Intermediate-AWS-Track
+Data Engineering- Cloud Platform,https://hclcontent.percipio.com/track/6b527590-657d-4623-a8af-b80c5962282f,59,Percipio Track Data Engineering-Intermediate-Azure-Track
+Data Engineering- Cloud Platform,https://hclcontent.percipio.com/track/593703ea-b36e-4434-9d2d-973734374558,76,Percipio Track Data Engineering-Advanced-Track
+Data Architecture,https://hclcontent.percipio.com/channels/a11e7df4-c323-44c4-8688-22e09ba61511?tab=WATCH,7,Percipio Channel Architecting Data
+Spark,Percipio Channel Apache Spark-2.4 &3.6,4,Percipio Channel Apache Spark-2.4 &3.6
+ETL,https://hclcontent.percipio.com/courses/a8b7332a-4ebe-4a8d-9e62-821ea16f95c9/videos/ac0de726-b9f3-4279-adee-fbd9e61d443a,1,Percipio Course Traditional Data Architectures: Data Warehousing and ETL Systems
+SQL,https://hclcontent.percipio.com/journey/ba668d51-ae2c-4e49-8dbe-62c825e91d64,12,Percipio Journey Oracle SQL
+Airflow,https://hclcontent.percipio.com/courses/255e43d0-353e-11e9-b20a-d52e3fc6a66f/videos/4d8a8940-353e-11e9-b20a-d52e3fc6a66f,1,Percipio Course Building Data Pipelines
+Azure Databricks,https://hclcontent.percipio.com/courses/20b67a11-f7d2-4345-9ca2-f1c05949ed08/videos/507622bc-d17e-4221-aeb1-c23543265f62,1,Percipio Course Data Engineering on Microsoft Azure: Databricks
+Azure Architecture,https://hclcontent.percipio.com/channels/a2783630-e196-11e6-93f3-0242c0a80605/view/40f981e3-f22f-4110-abaf-5ebe9a231844?tab=WATCH,18,Percipio Channel Azure Architecture
+Azure Data Engg Associate,,28,Percipio Channel Microsoft Certified: Azure Data Engineer Associate
+PySpark,https://hclcontent.percipio.com/books/33c9a75a-7cfd-429c-8f23-564dd03dda24,8,Percipio Book Data Analysis with Python and PySpark
+Hadoop,https://hclcontent.percipio.com/channels/e274f360-e199-11e6-93f3-0242c0a80605?tab=WATCH,10,Percipio Channel Apache Hadoop-2.9
+Hadoop & Hive,https://hclcontent.percipio.com/books/7139026c-1482-4fd3-9d6a-0f1edf541394,2.5,Percipio Book Big Data Using Hadoop and Hive
+Snowflake,https://hclcontent.percipio.com/journey/0f621358-89a6-46d7-ad63-a6b43acfe26b,22,Percipio Journey Data Analytics with Snowflake
+Snowflake,https://hclcontent.percipio.com/channels/eeafff43-be95-4e0e-823e-eaeb682eff75?tab=WATCH,16,Percipio Channel Snowflake-Basic & Inermediate
+Power BI,https://hclcontent.percipio.com/journey/cbbc0c34-e7de-45ec-ac7b-59ce7bec5068,57,Percipio Journey DBS - Power BI
+Power BI,https://hclcontent.percipio.com/journey/43702a2c-3146-40bb-b84b-c8d7ace700fd,26,Percipio
+Tableau,https://hclcontent.percipio.com/journey/3fad08c7-9e74-405b-8af1-a0f406f1dc7d,23,Percipio Journey DBS - Tableau
+GCP,https://hclcontent.percipio.com/channels/62ad1441-12ff-11e7-822f-df9d5d5ce619/view/606455ce-cc2c-4fc8-afac-2546658e6c61?tab=WATCH,25,Percipio Channel Google Cloud
+AzureML,https://hclcontent.percipio.com/courses/b3aa0a4c-85b4-4f6f-a5ce-b5f431d990c0/videos/bbd7b295-dee6-4c56-a9f5-079cc00eeb86,2,Percipio Course Azure AI Fundamentals: Machine Learning with Azure Services
+GCP Data Engineer,,22,Percipio Channel Google Data Engineer
+AWS,https://hclcontent.percipio.com/journey/82c2df5c-63ed-4e80-b77c-d0da69e23bec,26,Percipio Journey Cloud AWS
+Scala,https://hclcontent.percipio.com/channels/06f8c5d1-1314-11e7-822f-df9d5d5ce619?tab=WATCH,9,Percipio Channel Scala
+Data Science,https://hclcontent.percipio.com/channels/d2a136e5-552d-4010-81cb-d77b1d598922?tab=WATCH,20,Percipio Channel Data Science for Managers Bootcamp
+Data Science,https://hclcontent.percipio.com/books/1e830acb-7cfc-4c57-98b5-d3eb1d6806c9,4,Percipio Book Data Science for Business Professionals: A Practical Guide for Beginners
+Data Science,https://hclcontent.percipio.com/channels/c3b14ff1-5115-11e7-b825-0db3c203a5f6?tab=WATCH,11,Percipio Channel Data Science Core Concepts
+Power Platform,Content items retired,7,Percipio Journey Microsoft Certified: Power Platform Fundamentals
+Power Platform,https://hclcontent.percipio.com/channels/4a111b96-947e-470d-a4a5-f91f98c0d8a7?tab=WATCH,20,Percipio Channel Microsoft Power Platform
+Power Automate,https://hclcontent.percipio.com/books/a7c7e420-1a90-49f0-ad12-e3de736a4cda,3,Percipio Book Deep Dive into Power Automate: Learn by Example
+Power Apps,https://hclcontent.percipio.com/channels/e8254339-f3b3-43d0-9465-0335f53a7e83?tab=WATCH,5,Percipio Channel Microsoft PowerApps-begineer +intermediate
+GCP SQL,https://hclcontent.percipio.com/journey/06c9c073-8821-4995-b2cb-9a0345fef404,5,Percipio Journey Working with Google Cloud SQL
+BigQuery,https://hclcontent.percipio.com/courses/3bdc3170-3739-11e8-bd4d-21899f20f798/videos/2d0328a0-373b-11e8-abf3-d376c0e9b74c,1.5,Percipio Course Fundamentals of BigQuery
+MySQL,https://hclcontent.percipio.com/courses/a4935340-7606-11e8-adf2-d7d90d1a9502/videos/c5b42900-7606-11e8-adf2-d7d90d1a9502,1,Percipio Course MySQL Database Development: Database Design Fundamentals
+Data Warehouse,https://hclcontent.percipio.com/channels/e8fdec76-bd65-4935-80c9-031d06a3f056/view/957d8c93-0768-43d1-8cf2-c323fe68659c?tab=WATCH,5,Percipio Channel Data Warehousing-Begineer +Intermediate
+Postgre,https://hclcontent.percipio.com/channels/2f8c0ee0-e19a-11e6-93f3-0242c0a80605/view/2f8c35f0-e19a-11e6-93f3-0242c0a80605?tab=WATCH,15,Percipio Channel PostgreSQL
+MongoDB,https://hclcontent.percipio.com/channels/150c1001-0e64-11e7-92d8-37e13b311be2?tab=WATCH,8,Percipio Channel MongoDB
+Teradata,https://hclcontent.percipio.com/books/442b6850-f31f-11e6-ad5d-0242c0a80607/chapter/ch001#epubcfi(/6/6!/4/2%5Bepubmain%5D/2%5Bch001%5D/2/2/1:0),3,Percipio Book V14 Certification: Teradata Basics
+Teradata,https://hclcontent.percipio.com/books/71a51d60-f2a9-11e6-b0e2-0242c0a80804,2,Percipio Book Teradata Architecture for IT and Developers
+Teradata,,16,Percipio Channel Teradata
+Teradata,https://hclcontent.percipio.com/books/a76566f0-f243-11e6-ad5d-0242c0a80607,3,"Percipio Book Teradata Utilities: BTEQ, FastLoad, MultiLoad, TPump, and FastExport, Second Edition;"
+Teradata,,2,Percipio Book Teradata Load Utilities
+"Data Mangement, governance & quality",https://hclcontent.percipio.com/track/9500db4c-7c0d-4cfd-8c1d-365fadfe9975,5,Percipio Track Track 2: Data Ownership
+"AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",https://hclcontent.percipio.com/linked-contents/7f81ac44-5e28-400f-8183-5e1962a13f55/landing,1,Percipio Content AWS Glue Getting Started
+"AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",https://hclcontent.percipio.com/linked-contents/1ca34185-c63d-4bfe-b4f0-764ebcb64d5c/landing,1,Percipio Content Amazon EMR Getting Started
+"AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",https://hclcontent.percipio.com/courses/1154ebf3-59a8-4736-b34b-9b68a5464be1/videos/6f35b86a-f96c-496b-821d-231e347c0aa2,1,"Percipio Course AWS Certified Machine Learning: Athena, QuickSight, & EMR"
+"AWS Data Stack (AWS Glue, AWS EMR, AWS Athena, AWS RedShift)",https://hclcontent.percipio.com/linked-contents/d92bad34-566b-4f87-9838-420cf5895b00/landing,1,Percipio Content Getting Started with Amazon Redshift
+"Datastage(Datawarehouse concept(what it is, dimension & fact tables))",https://hclcontent.percipio.com/courses/a8b7332a-4ebe-4a8d-9e62-821ea16f95c9/videos/ac0de726-b9f3-4279-adee-fbd9e61d443a,5.63,Percipio Course Traditional Data Architectures: Data Warehousing and ETL Systems; https://hclcontent.percipio.com/channels/e8fdec76-bd65-4935-80c9-031d06a3f056/view/957d8c93-0768-43d1-8cf2-c323fe68659c?tab=WATCH
+Cosmos DB,https://hclcontent.percipio.com/books/e56497e5-69e2-42cd-93d1-119331fd958b,1.5,Percipio Book Cosmos DB for MongoDB Developers: Migrating to Azure Cosmos DB and Using the MongoDB API 
+Cosmos DB,https://hclcontent.percipio.com/journey/a8848fb6-ef4a-4ec0-b8ab-aeb7036eb46f,6, Percipio Journey Working with Azure Cosmos DB
+Kustos,https://hclcontent.percipio.com/videos/8fef3a85-561c-41bb-a1e8-d2f67af8b217,0.13,Percipio Video Basic KQL (Kusto Query Language) for AI Analysis
+Kustos,https://hclcontent.percipio.com/linked-contents/a2fcef83-a38f-48b8-8653-6e703a5f8f2b/landing,0.5,Percipio Course Work with data in Azure Sentinel using Kusto Query Language
+Kustos,https://hclcontent.percipio.com/linked-contents/dc644fa9-7fb5-4bee-b204-783e22bef7ca/landing,1,Percipio Course Write your first query with Kusto Query Language
+Kustos,https://hclcontent.percipio.com/videos/c466c828-1a2c-4eef-9883-3d0aa394d239,0.13,Percipio Video Querying Log Analytics Logs Using Kusto (KQL)
+Logic App,https://hclcontent.percipio.com/courses/f1af9d57-05fe-48f2-95ab-0d437d7a5bd2/videos/a180dd9a-2baa-4885-ad2a-2faeae420a3c,1,Percipio Course Developing Solutions for Microsoft Azure: Developing an App Service Logic App
+Logic App,https://hclcontent.percipio.com/courses/d2a14f30-1809-11e9-9cb3-73676ac7ed55/videos/95279690-180a-11e9-9cb3-73676ac7ed55,1,Percipio Course Azure Developer: Working with Azure Logic Apps
+Logic App,https://hclcontent.percipio.com/courses/e69c4f70-bba2-49da-a9ff-34663b118d92/videos/2c9bdc61-bb66-4244-b7fd-8bbe224b0481,0.5,Percipio Course Microsoft Azure Architect Technologies: DevOps & Azure
+MS Fabric,https://hclcontent.percipio.com/channels/c0c3e052-964e-4391-b3f4-a790099f354c?tab=WATCH,22,Percipio Channel Microsoft Fabric
+MS Fabric,https://hclcontent.percipio.com/journey/f087df14-90ba-442d-9ec5-97a45e08308f,24,Percipio
+MS Fabric,https://hclcontent.percipio.com/books/be318acb-0bf4-44b4-b6bb-8f87d49e1d0a,3,Percipio Book Mastering Microsoft Fabric: SAASification of Analytics
+SSAS & SSIS,https://hclcontent.percipio.com/books/bd0cb413-6187-4d0d-a0f2-e95ec80d0c6e,,"Percipio Book SQL Server Analytical Toolkit: Using Windowing, Analytical, Ranking, and Aggregate Functions for Data and Statistical Analysis"
+SSAS & SSIS,https://hclcontent.percipio.com/courses/0d615330-a91c-11e7-b050-7a420a93a8e4/videos/0d615331-a91c-11e7-b050-7a420a93a8e4,10,Percipio Course Data Flow Implementation & ETL
+SSAS & SSIS,https://hclcontent.percipio.com/books/be318acb-0bf4-44b4-b6bb-8f87d49e1d0a,1,Percipio Book Mastering Microsoft Fabric: SAASification of Analytics
+PubSub & Dataproc,https://hclcontent.percipio.com/linked-contents/e9179f8f-d020-4805-9c16-80edf4849815/landing,3,Percipio Course Build your first real-time chat app by using Azure Web PubSub and Azure Static Web …
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/e8df8c43-b99f-4ae0-9ba2-e3406cdb5141,,Percipio Video Using Spies to Test PubSub and jQuery
+PubSub & Dataproc,https://hclcontent.percipio.com/linked-contents/865d730d-78fe-41c6-a661-8dc3e8202318/landing,,Percipio Course Introduction to Azure Web PubSub
+PubSub & Dataproc,,,
+PubSub & Dataproc,https://hclcontent.percipio.com/courses/0cbd7fe0-2c33-11e8-9603-d703fae020b1/videos/a1908080-2c39-11e8-9603-d703fae020b1,,Percipio Course Dataproc
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/39fe26eb-6de3-4f0f-abdf-51532cc58e6e,,Percipio Video Dataproc Troubleshooting
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/d3889c56-f246-4b06-9079-66dc796fec1c,,Percipio Video Characteristics of Dataproc
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/69f7c3cb-4e9e-4897-b3ef-7261a4d40e6a,,Percipio Video Dataproc Cluster Options
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/f670e52b-804e-420c-b6a2-1fc93019922c,,Percipio Video Reviewing Job Statuses with Dataproc
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/54e60e5f-40e6-4b8b-a43a-102d163c7496,,Percipio Video Key Advantages of Dataproc
+PubSub & Dataproc,https://hclcontent.percipio.com/videos/90621a70-fc23-4204-8076-7d5d1f0a8a7a,,Percipio Video Control Resources in Dataproc Clusters
+PubSub & Dataproc,https://hclcontent.percipio.com/courses/3b6bbc60-3739-11e8-bd4d-21899f20f798/videos/c24622c0-3739-11e8-bd4d-21899f20f798,,Percipio Course Dataproc Architecture
+Data Science,https://hclcontent.percipio.com/channels/c3b14ff1-5115-11e7-b825-0db3c203a5f6?tab=WATCH,8,Percipio Channel Data Science Core Concepts
+Data Science,https://hclcontent.percipio.com/journey/6cd9e7e0-0ed6-4bd3-9ca9-9b96d735ed19,7,Percipio Journey Data Science Foundations
+NLP,https://hclcontent.percipio.com/journey/a29de7d4-c7fd-4979-a344-5bc015f6bea9,12,Percipio Journey NLP
+NLP and LLMs,https://hclcontent.percipio.com/journey/9294bf13-448a-4d2d-9d79-029cb2367d03,22.5,Percipio Journey Natural Language Processing and LLMs
+Intrroduction to LLMs,https://hclcontent.percipio.com/journey/df2d9a47-6175-4da1-b0ca-4044ecc381d0,1,Percipio Journey Introduction to Large Language Models (LLMs)
+"Intorduction to Prompt Engineering,GPT prompts, NLP, LLMs",https://hclcontent.percipio.com/journey/84953a2a-ca8c-43d5-9c8d-7cbde1af2aea,2,Percipio Journey AI Learning Journey - Frontline End Users
+Power BI +Power BI DAX,https://hclcontent.percipio.com/journey/cbbc0c34-e7de-45ec-ac7b-59ce7bec5068,56,Percipio Journey DBS - Power BI
+"Spark, Scala. Pyspark",https://hclcontent.percipio.com/journey/6e8486c2-3cc3-49ec-940b-45c427b8799f,5,Percipio Journey Introduction to Big Data with PySpark
+"Spark, Scala. Pyspark",https://hclcontent.percipio.com/channels/06f8c5d1-1314-11e7-822f-df9d5d5ce619?tab=WATCH,8,Percipio Channel Scala
+"Spark, Scala. Pyspark",https://hclcontent.percipio.com/channels/d0c511f0-0b1e-11e7-a3e9-a39d8b265364?tab=WATCH,2,Percipio Channel Apache Spark
+Teradata Basics,https://hclcontent.percipio.com/books/442b6850-f31f-11e6-ad5d-0242c0a80607/chapter/ch001#epubcfi(/6/6!/4/2%5Bepubmain%5D/2%5Bch001%5D/2/2/1:0),3,Percipio Book V14 Certification: Teradata Basics
+Teradata Basics,https://hclcontent.percipio.com/books/71a51d60-f2a9-11e6-b0e2-0242c0a80804,2,Percipio Book Teradata Architecture for IT and Developers
+Teradata Utilities,https://hclcontent.percipio.com/books/a76566f0-f243-11e6-ad5d-0242c0a80607,3,"Percipio Book Teradata Utilities: BTEQ, FastLoad, MultiLoad, TPump, and FastExport, Second Edition;"
+Teradata Utilities,,2,Percipio Book Teradata Load Utilities
+MLOps,https://hclcontent.percipio.com/journey/61612157-e631-46ac-ad60-4dfe57e1771b,23,Percipio Journey MLOps
+MLOps,https://hclcontent.percipio.com/courses/0297f99c-22a4-495d-abd5-5c83011f571a/videos/bb122ed2-7ec1-4e20-9697-2eafe7ceedaa,1:30,Percipio Course DevOps Platforms and Operations: DataOps Principles
+MLOps,https://www.udemy.com/,19.3,https://changeme.udemy.com/4346210
+MLOps,https://www.udemy.com/,50.8,https://changeme.udemy.com/6185965
+MLOps,https://www.udemy.com/,2.9,https://changeme.udemy.com/4025834
+MLOps,https://www.udemy.com/,37.9,https://changeme.udemy.com/4393768
+MLOps,https://www.udemy.com/,36.5,https://changeme.udemy.com/5471622
+MLOps,https://www.udemy.com/,9.3,https://changeme.udemy.com/5611434
+MLOps,https://www.udemy.com/,54.6,https://changeme.udemy.com/6474355
+MLOps,https://www.udemy.com/,16.6,https://changeme.udemy.com/5804708
+MLOps,https://www.udemy.com/,19.3,https://changeme.udemy.com/5914886
+MLOps,https://www.udemy.com/,1.8,https://changeme.udemy.com/6387625
+DataOps,https://www.udemy.com/course/dataops-fundamentals-for-beginners/?couponCode=KEEPLEARNING,2.59,DataOps Fundamentals for Beginners | Udemy
+DataOps,udemy.com/course/master-of-databricks-asset-bundle/,5.18,Master of Databricks Asset Bundle (DataOps) | Udemy

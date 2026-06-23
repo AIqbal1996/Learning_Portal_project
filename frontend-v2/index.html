@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#0056D2" />
+  <title>Learning Portal V2 | Executive Preview</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to content</a>
+
+  <header class="shell-header" aria-label="Learning Portal header">
+    <div class="brand-lockup" role="button" tabindex="0" data-route="home" aria-label="Go to home">
+      <span class="brand-mark" aria-hidden="true">L</span>
+      <span>
+        <strong>Learning Portal</strong>
+        <small>Enterprise V2 Preview</small>
+      </span>
+    </div>
+
+    <nav class="primary-nav" aria-label="Primary navigation">
+      <button class="nav-link active" data-route="home">Home</button>
+      <button class="nav-link" data-route="courses">Courses</button>
+      <button class="nav-link" data-route="training">Training List</button>
+      <button class="nav-link" data-route="pilots">Pilots</button>
+      <button class="nav-link" data-route="assessments">Assessments</button>
+    </nav>
+
+    <div class="header-actions">
+      <div class="persona-switch" aria-label="Audience mode">
+        <button class="persona-pill active" data-persona="student">Students</button>
+        <button class="persona-pill" data-persona="enterprise">Corporate</button>
+      </div>
+      <button class="ghost-button" id="openCommand">⌘ Search</button>
+    </div>
+  </header>
+
+  <main id="app" class="app-shell" tabindex="-1" aria-live="polite"></main>
+
+  <div class="command-modal" id="commandModal" hidden>
+    <div class="modal-backdrop" data-close-modal></div>
+    <section class="command-card" role="dialog" aria-modal="true" aria-labelledby="commandTitle">
+      <div class="command-header">
+        <h2 id="commandTitle">Find learning content</h2>
+        <button class="icon-button" data-close-modal aria-label="Close search">×</button>
+      </div>
+      <label class="visually-hidden" for="globalSearch">Global Search</label>
+      <input id="globalSearch" class="search-input command-input" type="search" placeholder="Search courses, pilots, sheets, skills..." autocomplete="off" />
+      <div class="command-results" id="commandResults"></div>
+    </section>
+  </div>
+
+  <script src="assets/js/data-service.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>
